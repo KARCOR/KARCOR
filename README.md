@@ -1,4 +1,4 @@
-### Karina Correa | Data Analyst
+### Karina Correa | BIO Data Analyst
 
 I turn messy, real-world data into clear, decision-ready analysis — in Python, with reproducible pipelines.
 
