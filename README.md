@@ -1,4 +1,4 @@
-### Karina Correa — Análisis de Datos con Python
+### Karina Correa — Análisis de Datos
 
 Bióloga en transición a Análisis de Datos, con enfoque en bioinformática y datos ambientales.
 
