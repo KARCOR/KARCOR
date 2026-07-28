@@ -1,6 +1,6 @@
-### Karina Correa — Análisis de Datos
+### Karina Correa | Data Analyst
 
-Bióloga en transición a Análisis de Datos, con enfoque en bioinformática y datos ambientales.
+I turn messy, real-world data into clear, decision-ready analysis — in Python, with reproducible pipelines and no shortcuts.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -13,12 +13,22 @@ Bióloga en transición a Análisis de Datos, con enfoque en bioinformática y d
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**Proyectos destacados**
+**My path into data analytics**
 
-- 🦠 [Diversidad microbiana — Estudio ENIGMA](https://github.com/KARCOR/diversidad-microbiana-enigma) — diversidad bacteriana en 67 pozos de agua subterránea y su relación con variables ambientales.
-- 🚗 [EDA y dashboard — ventas de autos](https://github.com/KARCOR/analisis-ventas-autos-panama) — estacionalidad y market share, dashboard de 6 paneles.
-- 🐦 [Migración de aves](https://github.com/KARCOR/analisis-migracion-aves) — EDA comparativo y serie de tiempo, dashboard interactivo en Tableau Public.
-- 🧹 [Limpieza y validación de datos](https://github.com/KARCOR/limpieza-validacion-datos-kaggle) — diagnóstico y decisiones de limpieza documentadas.
-- 🎬 [Integración multi-tabla — MovieLens](https://github.com/KARCOR/integracion-multitabla-movielens) — `concat`/`merge` y validación de uniones entre 4 tablas.
+**1 · Foundations** — Python, pandas, EDA, data cleaning
+- 🧹 [Data cleaning & validation](https://github.com/KARCOR/employee-data-cleaning) — real dataset with errors and ~50% missing values; every cleaning decision documented and validated before/after.
+- 🎬 [Multi-table integration — MovieLens](https://github.com/KARCOR/movielens-multitable-integration) — `concat`/`merge` across 4 tables, each join validated for row/null integrity.
+
+**2 · Applied analysis & visualization** — EDA and dashboards for real decisions
+- 🚗 [Car sales — EDA & dashboard](https://github.com/KARCOR/car-sales-panama-eda) — seasonality and market share, 6-panel dashboard.
+- 🐦 [Bird migration](https://github.com/KARCOR/bird-migration-eda) — comparative EDA and time series, interactive dashboard in Tableau Public.
+
+**3 · Bioinformatics & scientific data** — my differentiator: real sequencing data, tested code, publication-level rigor
+- 🦠 [Microbial diversity — ENIGMA study](https://github.com/KARCOR/enigma-microbial-diversity) — 67 groundwater wells, 16S rRNA data, self-audited against the STREAMS reporting standard, tested Python package.
+- 🧬 [ITS amplicon pipeline](https://github.com/KARCOR/its-amplicon-pipeline) — DADA2/cutadapt pipeline reproducing the nf-core/ampliseq workflow, automated tests, CI.
+
+**Next:** M.S. in Data Analytics (starting 2026).
+
+Also building [Verdika](https://verdika.pro), a Decision Intelligence platform.
 
 📫 [LinkedIn](https://linkedin.com/in/karina-correa-aparicio)
