@@ -1,6 +1,6 @@
 ### Karina Correa | Data Analyst
 
-I turn messy, real-world data into clear, decision-ready analysis — in Python, with reproducible pipelines and no shortcuts.
+I turn messy, real-world data into clear, decision-ready analysis — in Python, with reproducible pipelines.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
