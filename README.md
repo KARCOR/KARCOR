@@ -17,24 +17,25 @@ My projects focus on data analysis, bioinformatics, and reproducible workflows u
 
 ---
 
-## Featured Projects
+**My path into data analytics**
 
-- **[Data Cleaning & Validation](https://github.com/KARCOR/employee-data-cleaning)** — Cleaned and validated a real-world dataset with approximately 50% missing values.
+**1 · Foundations** — Python, pandas, EDA, data cleaning
 
-- **[MovieLens Multi-table Integration](https://github.com/KARCOR/movielens-multitable-integration)** — Combined four related datasets using `concat` and `merge`, validating joins for row consistency and null integrity.
+- [Data cleaning & validation](https://github.com/KARCOR/employee-data-cleaning) — real dataset with errors and ~50% missing values; every cleaning decision documented and validated before/after.
+- [Multi-table integration — MovieLens](https://github.com/KARCOR/movielens-multitable-integration) — `concat`/`merge` across 4 tables, each join validated for row/null integrity.
 
-- **[Car Sales Dashboard](https://github.com/KARCOR/car-sales-panama-eda)** — Exploratory data analysis and dashboard focused on seasonality and market share.
+**2 · Applied analysis & visualization** — EDA and dashboards for real decisions
 
-- **[Bird Migration Analysis](https://github.com/KARCOR/bird-migration-eda)** — Comparative exploratory analysis and time-series visualization using Tableau Public.
+- [Car sales — EDA & dashboard](https://github.com/KARCOR/car-sales-panama-eda) — seasonality and market share, 6-panel dashboard.
+- [Bird migration](https://github.com/KARCOR/bird-migration-eda) — comparative EDA and time series, interactive dashboard in Tableau Public.
 
-- **[ENIGMA Microbial Diversity](https://github.com/KARCOR/enigma-microbial-diversity)** — Analysis of 16S rRNA sequencing data from 67 groundwater wells following the STREAMS reporting standard.
+**3 · Bioinformatics & scientific data** — real sequencing data, tested code, publication-level rigor
 
-- **[ITS Amplicon Pipeline](https://github.com/KARCOR/its-amplicon-pipeline)** — Reproducible DADA2/Cutadapt workflow inspired by the nf-core/ampliseq pipeline, including automated tests and CI.
-
-- **Verdika** *(work in progress)* — Decision Intelligence platform for AI-assisted business analysis.
+- [Microbial diversity — ENIGMA study](https://github.com/KARCOR/enigma-microbial-diversity) — 67 groundwater wells, 16S rRNA data, self-audited against the STREAMS reporting standard, tested Python package.
+- [ITS amplicon pipeline](https://github.com/KARCOR/its-amplicon-pipeline) — DADA2/cutadapt pipeline reproducing the nf-core/ampliseq workflow, automated tests, CI.
 
 ---
 
-## Connect
+Also building [Verdika](https://verdika.pro), a Decision Intelligence platform.
 
-- 💼 LinkedIn
+[LinkedIn](https://linkedin.com/in/karina-correa-aparicio)
