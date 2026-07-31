@@ -1,10 +1,8 @@
-Hi, I'm KARCOR 👋
+# Hi, I'm KARCOR 👋
 
-I'm a biologist who discovered that programming and statistics are powerful tools for answering scientific questions.
+I'm a biologist exploring data analytics, scientific computing, and reproducible research.
 
-Today, I build projects at the intersection of biology, data analytics, and reproducible research, with a focus on turning complex datasets into meaningful insights.
-
-I believe the best discoveries happen when scientific curiosity meets data-driven thinking.
+My projects focus on data analysis, bioinformatics, and reproducible workflows using Python.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -35,8 +33,6 @@ I believe the best discoveries happen when scientific curiosity meets data-drive
 
 - [Microbial diversity — ENIGMA study](https://github.com/KARCOR/enigma-microbial-diversity) — 67 groundwater wells, 16S rRNA data, self-audited against the STREAMS reporting standard, tested Python package.
 - [ITS amplicon pipeline](https://github.com/KARCOR/its-amplicon-pipeline) — DADA2/cutadapt pipeline reproducing the nf-core/ampliseq workflow, automated tests, CI.
-
-**Next:** M.S. in Data Analytics (starting 2026).
 
 ---
 
