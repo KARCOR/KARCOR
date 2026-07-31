@@ -1,6 +1,10 @@
-### Karina Correa | Bio Data Analyst
+Hi, I'm Karina 👋
 
-I turn messy, real-world data into clear, decision-ready analysis — in Python, with reproducible pipelines.
+I'm a biologist who discovered that programming and statistics are powerful tools for answering scientific questions.
+
+Today I'm building projects where biology, data analysis and reproducible research meet.
+
+I enjoy learning, solving real-world problems and creating analyses that help transform raw data into meaningful insights.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
