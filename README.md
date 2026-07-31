@@ -1,4 +1,4 @@
-Hi, I'm Karina 👋
+Hi, I'm KARCOR 👋
 
 I'm a biologist who discovered that programming and statistics are powerful tools for answering scientific questions.
 
