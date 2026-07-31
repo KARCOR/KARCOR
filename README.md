@@ -2,7 +2,7 @@ Hi, I'm KARCOR 👋
 
 I'm a biologist who discovered that programming and statistics are powerful tools for answering scientific questions.
 
-Today I'm building projects where biology, data analysis and reproducible research meet.
+Today, I build projects at the intersection of biology, data analytics, and reproducible research, with a focus on turning complex datasets into meaningful insights.
 
 I enjoy learning, solving real-world problems and creating analyses that help transform raw data into meaningful insights.
 
