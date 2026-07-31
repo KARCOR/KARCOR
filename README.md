@@ -4,7 +4,7 @@ I'm a biologist who discovered that programming and statistics are powerful tool
 
 Today, I build projects at the intersection of biology, data analytics, and reproducible research, with a focus on turning complex datasets into meaningful insights.
 
-I enjoy learning, solving real-world problems and creating analyses that help transform raw data into meaningful insights.
+I believe the best discoveries happen when scientific curiosity meets data-driven thinking.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
